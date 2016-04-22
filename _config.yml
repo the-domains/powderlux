@@ -1,7 +1,7 @@
 name: PowderLux
 favicon: null
-layout_spectrum: 0.5931394258514047
-typography_spectrum: 0.24720857525244355
+layout_spectrum: 0.24624
+typography_spectrum: 0.75543
 title: When only the best will do
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.39061898179352283
-  lightness: 0.6807269523851573
-  saturation: 0.9986263965256512
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.81681890017353
 purpose: []
