@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PowderLux]]></title>
         <description><![CDATA[PowderLux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/powderlux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 06:23:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 06:23:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/powderlux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iki]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed66575-2bb9-430b-84e6-bc65bfd7c1ed.jpg">]]></description>
+            <link>https://thegrid.ai/powderlux/iki/index.html</link>
+            <guid isPermaLink="false">98013444-0bc3-4ada-97cc-b0106e93e74f</guid>
+            <pubDate>Fri, 22 Apr 2016 06:23:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yamabiko]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6176a997-2b66-4ee9-9715-e0a6b03f9c81.jpg">]]></description>
-            <link>undefinedyamabiko/index.html</link>
+            <link>https://thegrid.ai/powderlux/yamabiko/index.html</link>
             <guid isPermaLink="false">05127cd4-9656-4cca-84d8-6c00a4081ef0</guid>
             <pubDate>Fri, 22 Apr 2016 06:23:22 GMT</pubDate>
         </item>
