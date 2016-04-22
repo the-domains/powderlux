@@ -4,8 +4,15 @@
         <description><![CDATA[PowderLux]]></description>
         <link>https://thegrid.ai/powderlux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 06:24:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/powderlux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Panorama]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bf0c17e-5250-4620-b430-8bc0ba6ff7c8.jpg">]]></description>
+            <link>https://thegrid.ai/powderlux/panorama/index.html</link>
+            <guid isPermaLink="false">fa78c15e-b128-417a-9009-64df0261650e</guid>
+            <pubDate>Fri, 22 Apr 2016 06:24:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iki]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed66575-2bb9-430b-84e6-bc65bfd7c1ed.jpg">]]></description>
